@@ -1,0 +1,42 @@
+@font-face {
+  font-family: 'font-main';
+  src: url('./assets/fonts/MessinaSans-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+@font-face {
+  font-family: 'font-main-thin';
+  src: url('./assets/fonts/MessinaSans-Book.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+@font-face {
+  font-family: 'font-title';
+  src: url('./assets/fonts/GT-Sectra-Display-Light-Trial.otf')
+    format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+@font-face {
+  font-family: 'font-title-sub';
+  src: url('./assets/fonts/Gotham-Light.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+@font-face {
+  font-family: 'font-title-sub-thin';
+  src: url('../../assets/fonts/Gotham-XLight.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+KR&display=swap');
